@@ -1,3 +1,7 @@
+# This project is not longer active. The successor is included in [Nextcloud](https://nextcloud.com/).
+
+
+
 # Gallery+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/interfasys/galleryplus/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/interfasys/galleryplus/?branch=master)
 [![Codacy Badge](https://www.codacy.com/project/badge/02f02de5292e4f7393cd7e5697227a5a)](https://www.codacy.com/app/interfaSys/galleryplus)
